@@ -6,7 +6,7 @@ func main() {
 
 	fmt.Println("     **\t    **\t\n",
 		"  *     *     *\n",
-		"*      andi     *\n",
+		"*      安迪     *\n",
 		"   *         *\n",
 		"      *   *\n",
 		"        *")
