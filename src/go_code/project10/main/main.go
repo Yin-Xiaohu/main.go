@@ -6,7 +6,9 @@ import (
 )
 
 func main() {
+
 	var num int
+
 	fmt.Printf("num的地址=%v\n", &num)
 	fmt.Println(model.HeroName)
 }
